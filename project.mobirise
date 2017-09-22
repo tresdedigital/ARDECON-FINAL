@@ -1,0 +1,1988 @@
+{
+  "settings": {
+    "name": "ARDECON",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c1c1c1",
+        "secondaryColor": "#00534c",
+        "successColor": "#90a878",
+        "infoColor": "#cccccc",
+        "warningColor": "#cccccc",
+        "dangerColor": "#f28281",
+        "titleFont": "Raleway",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#323232",
+        "#f2f2f2",
+        "#4b4b4b",
+        "#aeadad",
+        "#00534c",
+        "#1a8138",
+        "#086022"
+      ]
+    },
+    "versionFirst": "4.2.3",
+    "uniqCompNum": 46,
+    "versionPublish": "4.3.0",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-recortado-brandbook-ardecon-horizontal-12-1-128x128-1.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "INICIO",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#00534c",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NOSOTROS.html\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"GALERIA.html\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACTO.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#00201d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#00443e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#00534c"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brandbook-ardecon-horizontal-627x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc01871-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "30 AÑOS",
+          "text": "Haciendo realidad tus sueños.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#323232"
+          },
+          "title": "¿ QUIÉNES SOMOS ?<br>",
+          "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Un equipo humano multidisciplinario capaz de desarrollar todo tipo de encargo demandado en el ámbito de la arquitectura, decoración o en construcción.</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l"
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
+          },
+          "title1": "<br><br>CREAMOS",
+          "subtitle1": "EJEMPLO",
+          "caption1": "<br>Diseñamos los espacios entorno a tu vida.",
+          "title2": "<br><br>HACEMOS",
+          "subtitle2": "EJEMPLO",
+          "caption2": "<br>Construímos tus sueños.&nbsp;",
+          "title3": "<br><br>ENTREGAMOS",
+          "subtitle3": "EJEMPLO",
+          "caption3": "<br>Cumplimos con calidad, a tiempo.",
+          "title4": "ENTREGAMOS",
+          "subtitle4": "EJEMPLO",
+          "caption4": "EJEMPLO 4.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background1": "<span style=\"font-style: normal;\">1</span>",
+          "background2": "<span style=\"font-style: normal;\">2</span>",
+          "background3": "<span style=\"font-style: normal;\">3</span>",
+          "background4": "<span style=\"font-style: normal;\">4</span>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_anchor": "extFeatures14-4",
+          "_styles": {
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            "H4": {
+              "color": "#efefef"
+            },
+            "SPAN": {
+              "color": "#4e4e4e"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            }
+          },
+          "_customCSS": "@media (max-width: 580px) {\n.card-img span {\n    font-size: 300px;\n}\n}"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/copia-de-dsc02005123-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "glasses-2",
+              "family": "iconsMind",
+              "active": true,
+              "link": "page3.html",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "designmoo",
+              "family": "icon54",
+              "active": true,
+              "link": "page3.html",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "lego-brick",
+              "family": "icon54",
+              "active": true,
+              "link": "page3.html",
+              "size": 0,
+              "color": "#c39f76",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title1": "ARQUITECTURA",
+          "subtitle1": "EJEMPLO",
+          "caption1": "Servicios de diseño, al estilo de su proyecto.",
+          "title2": "DECORACIÓN",
+          "subtitle2": "EJEMPLO",
+          "caption2": "Decoración, acabados y todo lo necesario para darle forma al estilo de su proyecto, construcción o vivienda.",
+          "title3": "CONSTRUCCIÓN",
+          "subtitle3": "EJEMPLO",
+          "caption3": "Nos desempeñamos brindando el mejor servicio de construcción para todo tipo de proyectos.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures3",
+          "_anchor": "extFeatures3-8",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            },
+            "H4": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc01887-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "GALERÍA DE PROYECTOS",
+          "text": "EJEMPLO",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"GALERIA.html\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#efefef",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTÁCTANOS",
+          "subtitle": "Teléfonos: &nbsp; +(503) 2504-9899<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +(503) 2225-8724<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; info@ardecon.com.sv",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "ardecon.sa@gmail.com",
+            "alerts": {
+              "success": "Gracias, pronto nos pondremos en contacto."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Correo*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-14",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": "@media (max-width: 580px) {\n    h3 {\n    font-size: 35px;\n    }\n}"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "32px",
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/copia-de-dsc01721-2000x594.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-y"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showLogo": false,
+            "progress": "50",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#00534c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "Copyright <b>TRESDÉ </b>2017 <b>- All Rights Reserved.</b>",
+          "title": "MOBIRISE",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/variaci%C3%B3n%20de%20colores%20ardecon-1035x719.png",
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-z",
+          "_customHTML": "<section class=\"mbr-section extFooter1\" data-rv-view=\"159\" style=\"background-color: rgb(0, 83, 76); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-12\">\n                        <div class=\"wrap\">\n                            <div class=\"logo-footer\">\n                                <img src=\"C:/Users/Héctor D Rivas/Downloads/ICONOS/tresde.png\">\n                            </div>\n                            <p class=\"mbr-editable-content\" code-editable-id=\"31\">Copyright <strong>TRESDÉ </strong>2017. All Rights Reserved.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@media (max-width: 680px) {\n    img {\n       display: none;\n}\n}\n/*DESKTOP*/\n.mbr-editable-content {\n    padding-top: 23px;\n}\n\n.col-md-12 {\n    display: inline-flex;\n    align-items: center;\n}\n\nimg {\n    height: 40px;\n    padding-right: 20px;\n    margin-left: -50px;\n}\n\nP {\n  color: #efefef;\n  text-align: left;\n  font-size: 14px;\n  padding-bottom: 10px;\n}\n.mbr-section-title {\n  text-align: left;\n}\n\n.wrap {\n    display: flex;\n    height: 80px;\n    justify-content: center;\n    align-items: center;\n}\n\n.logo-footer {\n    display: inline-block;\n}",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "NOSOTROS.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "NOSOTROS",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#00534c",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NOSOTROS.html\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"GALERIA.html\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACTO.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#00201d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#00443e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#00534c"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brandbook-ardecon-horizontal-627x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02108-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOSOTROS",
+          "text": "<br>Contamos con un equipo multidisciplinario capaz de desarrollar todo tipo de proyecto demandado en el ámbito de la arquitectura, decoración o contrucción; ofreciendo servicios técnicos, eficientes y de calidad, actuales en el mundo de la arquitectura.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-v",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "21px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "MISIÓN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Ser una empresa líder en soluciones constructivas con calidad a nivel regional.",
+          "title2": "VISIÓN",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Somos una empresa constructora, que trabaja con honestidad y efectividad; para contribuir con la mejora de la calidad de vida de nuestros clientes, empleados y todos los que depositan su confianza en nosotros.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-18"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showLogo": false,
+            "progress": "50",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#00534c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "Copyright <b>TRESDÉ </b>2017 <b>- All Rights Reserved.</b>",
+          "title": "MOBIRISE",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/variaci%C3%B3n%20de%20colores%20ardecon-1035x719.png",
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-z",
+          "_customHTML": "<section class=\"mbr-section extFooter1\" data-rv-view=\"159\" style=\"background-color: rgb(0, 83, 76); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-12\">\n                        <div class=\"wrap\">\n                            <div class=\"logo-footer\">\n                                <img src=\"C:/Users/Héctor D Rivas/Downloads/ICONOS/tresde.png\">\n                            </div>\n                            <p class=\"mbr-editable-content\" code-editable-id=\"72\">Copyright <strong>TRESDÉ </strong>2017. All Rights Reserved.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@media (max-width: 680px) {\n    .logo-footer img {\n        display: none;\n    }\n}\n/*DESKTOP*/\n.mbr-editable-content {\n    padding-top: 23px;\n}\n\n.col-md-12 {\n    display: inline-flex;\n    align-items: center;\n}\n\nimg {\n    height: 40px;\n    padding-right: 20px;\n    margin-left: -50px;\n}\n\nP {\n  color: #efefef;\n  text-align: left;\n  font-size: 14px;\n  padding-bottom: 10px;\n}\n.mbr-section-title {\n  text-align: left;\n}\n\n.wrap {\n    display: flex;\n    height: 80px;\n    justify-content: center;\n    align-items: center;\n}\n\n.logo-footer {\n    display: inline-block;\n}",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "GALERIA.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "GALERÍA",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#00534c",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NOSOTROS.html\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"GALERIA.html\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACTO.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#00201d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#00443e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#00534c"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brandbook-ardecon-horizontal-627x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02126-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "GALERÍA",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-i"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#323232",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02188-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02188-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-img-20170117-1999x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-img-20170117-1999x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2666-800x1066.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2000-800x800.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x2666-800x1066.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Institucional",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1224.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1224-800x489.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20140121-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20140121-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Industrial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen27-824x616.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen27-824x616-800x598.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-copia-de-dsc01873-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-copia-de-dsc01873-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01838-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01838-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc00646-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc00646-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01645-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01645-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01822-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01822-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01839-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01839-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01840-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01840-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01842-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01842-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01845-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01845-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01847-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01847-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01848-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01848-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01943-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01943-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01957-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01957-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01983-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01983-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc01999-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc01999-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02011-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02011-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02051-2000x1263.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02051-2000x1263-800x505.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02053-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02053-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02060-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02060-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02062-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02062-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-dsc02063-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-dsc02063-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/copia-de-rodriguez3-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/copia-de-rodriguez3-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc01818-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01818-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02108-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02108-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02052-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02052-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02084-25-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02084-25-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02118-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02118-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02125-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02125-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02126-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02126-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02157-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02157-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02184-2000x1135.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02184-2000x1135-800x454.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02187-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02187-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc020521-2000x1253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc020521-2000x1253-800x501.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen5-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen5-2000x1500-800x600.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen8-824x596.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen8-824x596-800x578.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen11-2000x1125.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen11-2000x1125-800x450.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen12-804x590.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen12-804x590-800x587.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen16-808x611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen16-808x611-800x604.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imagen23-836x616.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen23-836x616-800x589.png",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rodriguez3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rodriguez3-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": true
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rodriguez3-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rodriguez3-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              },
+              {
+                "tags": "Residencial",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rodriguez3-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rodriguez3-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "CASA",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "Todos",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-k",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": "@media (max-width: 680px){\n    .carousel-item {\n        max-height: 342.510px;\n        max-width: 639px;\n    }\n    \n    .carousel-item img {\n        max-height: 342.510px;\n        max-width: 639px;\n    }\n    \n    .modal-dialog {\n        margin-top: 70px;\n    }\n}\nli {\n    border: 0px;\n}\n\nul > li {\n    opacity: 1.0;\n}\n\nimg {\n  max-height: 180px;\n  width: 100%;\n  object-fit: cover; /*magic*/\n}\n\ndiv {\n    object-fit: cover;\n}\n\n.icon-focus {\n    display: none;\n}\n\nli:hover {\n    border: solid;\n}\n\nul:hover > li:not(:hover) {\n    opacity: 0.5;\n}\n\n@media (min-width: 681px) {\n\n.carousel-item {\n    height: 592.510px;\n    width: 889px; \n    background-color: transparent;\n}\n\n.carousel-item img {\n     max-height: 592.510px;\n    max-width: 889px;\n}\n}\n"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showLogo": false,
+            "progress": "50",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#00534c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "Copyright <b>TRESDÉ </b>2017 <b>- All Rights Reserved.</b>",
+          "title": "MOBIRISE",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/variaci%C3%B3n%20de%20colores%20ardecon-1035x719.png",
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-z",
+          "_customHTML": "<section class=\"mbr-section extFooter1\" data-rv-view=\"159\" style=\"background-color: rgb(0, 83, 76); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-12\">\n                        <div class=\"wrap\">\n                            <div class=\"logo-footer\">\n                                <img src=\"C:/Users/Héctor D Rivas/Downloads/ICONOS/tresde.png\">\n                            </div>\n                            <p class=\"mbr-editable-content\" code-editable-id=\"72\">Copyright <strong>TRESDÉ </strong>2017. All Rights Reserved.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@media (max-width: 680px) {\n    .logo-footer img {\n        display: none;\n    }\n}\n/*DESKTOP*/\n.mbr-editable-content {\n    padding-top: 23px;\n}\n\n.col-md-12 {\n    display: inline-flex;\n    align-items: center;\n}\n\nimg {\n    height: 40px;\n    padding-right: 20px;\n    margin-left: -50px;\n}\n\nP {\n  color: #efefef;\n  text-align: left;\n  font-size: 14px;\n  padding-bottom: 10px;\n}\n.mbr-section-title {\n  text-align: left;\n}\n\n.wrap {\n    display: flex;\n    height: 80px;\n    justify-content: center;\n    align-items: center;\n}\n\n.logo-footer {\n    display: inline-block;\n}",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "CONTACTO.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "CONTACTO",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#00534c",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NOSOTROS.html\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"GALERIA.html\" aria-expanded=\"false\">GALERÍA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACTO.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#00201d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#00443e!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#00534c"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brandbook-ardecon-horizontal-627x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFormTitle": false,
+            "showFormSubtitle": false,
+            "inverse": true,
+            "showArrow": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader9-bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTÁCTANOS",
+          "formTitle": "CONTACTO",
+          "formSubtitle": "Lorem ipsum dolor&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Estamos a tu servicio.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "ardecon.sa@gmail.com",
+            "alerts": {
+              "success": "Gracias, pronto nos pondremos en contacto."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Correo*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader9",
+          "_anchor": "extHeader9-s",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showLogo": false,
+            "progress": "50",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#00534c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "Copyright <b>TRESDÉ </b>2017 <b>- All Rights Reserved.</b>",
+          "title": "MOBIRISE",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/variaci%C3%B3n%20de%20colores%20ardecon-1035x719.png",
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-z",
+          "_customHTML": "<section class=\"mbr-section extFooter1\" data-rv-view=\"159\" style=\"background-color: rgb(0, 83, 76); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-12\">\n                        <div class=\"wrap\">\n                            <div class=\"logo-footer\">\n                                <img src=\"C:/Users/Héctor D Rivas/Downloads/ICONOS/tresde.png\">\n                            </div>\n                            <p class=\"mbr-editable-content\" code-editable-id=\"72\">Copyright <strong>TRESDÉ </strong>2017. All Rights Reserved.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@media (max-width: 680px) {\n    .logo-footer img {\n        display: none;\n    }\n}\n/*DESKTOP*/\n.mbr-editable-content {\n    padding-top: 23px;\n}\n\n.col-md-12 {\n    display: inline-flex;\n    align-items: center;\n}\n\nimg {\n    height: 40px;\n    padding-right: 20px;\n    margin-left: -50px;\n}\n\nP {\n  color: #efefef;\n  text-align: left;\n  font-size: 14px;\n  padding-bottom: 10px;\n}\n.mbr-section-title {\n  text-align: left;\n}\n\n.wrap {\n    display: flex;\n    height: 80px;\n    justify-content: center;\n    align-items: center;\n}\n\n.logo-footer {\n    display: inline-block;\n}",
+          "_customTemplate": true
+        }
+      ]
+    }
+  }
+}
